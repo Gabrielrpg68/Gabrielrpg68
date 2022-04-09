@@ -1,5 +1,5 @@
 <h1 align = "center">
-  Olá eu sou Gabriel <img src = "./img/MãoAnimada.gif" width = "25px">
+  Olá eu sou Gabriel
 </h1>
 
 <div>
